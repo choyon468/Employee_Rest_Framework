@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+Pipfile
+Pipfile.lock
+
+# Database
+*.sqlite3
+
+# Django Migrations
+**/migrations/
+
+# Compiled Files
+*.pyc
+__pycache__/
